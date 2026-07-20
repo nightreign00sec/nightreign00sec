@@ -18,17 +18,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ---
 
 ## 🧠 About Me
-- 🎓 Studying **Systems & Network Administration** 
-- 🔐 Passionate about **Cybersecurity, Web Security & System Hardening**  
+
+- 🎓 Studying **Systems & Network Administration**
+- 🔐 Passionate about **Cybersecurity, Web Security & System Hardening**
 - 🛠️ Currently working on:
   - Vulnerable web applications (XSS, SQLi, etc.)
-  - Monitoring & detection tools (**Wazuh**, **Zabbix**)  
-  - Windows Server & Linux environments  
+  - Monitoring & detection tools (**Wazuh**, **Zabbix**)
+  - Windows Server & Linux environments
 - 🎯 Goal: Become a **Cloud Security / Cybersecurity Engineer**
 
 ---
@@ -36,69 +35,97 @@ Here are some ideas to get you started:
 ## ⚡ Skills & Technologies
 
 ### 🖥️ Systems & Networking
-- Windows Server  
-- Linux (learning hardcore 🐧)  
-- Networking fundamentals  
+
+- Windows Server
+- Linux (learning hardcore 🐧)
+- Networking fundamentals
 
 ### 🔐 Cybersecurity
+
 - Web vulnerabilities (XSS, SQL Injection, etc.)
-- Secure coding practices  
-- Basic penetration testing  
+- Secure coding practices
+- Basic penetration testing
 
 ### 🛠️ Tools
-- Wazuh (SIEM)  
-- Zabbix (Monitoring)  
-- Git & GitHub  
+
+- Wazuh (SIEM)
+- Zabbix (Monitoring)
+- Git & GitHub
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔓 Vulnerable Web App (Vuln-App)
+
 > A deliberately vulnerable web application to practice and demonstrate common web attacks and fixes.
 
-- Demonstrates: XSS, input validation flaws  
-- Includes: exploitation + mitigation techniques  
-- ⚠️ For educational purposes only  
+- Demonstrates: XSS, input validation flaws
+- Includes: exploitation + mitigation techniques
+- ⚠️ For educational purposes only
 
 ---
 
 ### 🛡️ IDS / Monitoring Lab
+
 > Implementation of monitoring and intrusion detection systems.
 
-- Tools: Wazuh, Zabbix  
-- Focus: log analysis, alerting, system visibility  
+- Tools: Wazuh, Zabbix
+- Focus: log analysis, alerting, system visibility
 
 ---
 
 ### 🍯 Honeypot Project (Coming Soon)
+
 > Simulating attacks to analyze attacker behavior.
 
 ---
 
 ## 📈 Current Focus
-- Deep dive into **Linux (Hardcore level)**  
-- Building **real-world cybersecurity labs**  
-- Strengthening **defensive security skills**  
+
+- Deep dive into **Linux (Hardcore level)**
+- Building **real-world cybersecurity labs**
+- Strengthening **defensive security skills**
 
 ---
 
 ## 🌍 Future Objectives
+
 - 🌐 Work in **Cloud Security**
-- 🎓 Study abroad & obtain top cybersecurity certifications  
-- 🚀 Contribute to impactful security projects  
+- 🎓 Study abroad & obtain top cybersecurity certifications
+- 🚀 Contribute to impactful security projects
 
 ---
 
-
 ## 🤝 Let's Connect
-- 💬 Open to collaboration on cybersecurity projects  
-- 📫 Reach me: **  
+
+- 💬 Open to collaboration on cybersecurity & monitoring projects
+- 📫 Reach me through one of the secure channels below
+
+<div align="center">
+  <a href="https://linkedin.com/in/{linkedin_username}">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/{twitter_username}">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:{email}">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="{portfolio_url}">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Always happy to discuss cybersecurity, incident detection, or cloud hardening.</sub>
+</div>
 
 ---
 
 ## ⚠️ Disclaimer
-All security-related projects are for **educational purposes only**.  
+
+All security-related projects are for **educational purposes only**.
 I promote **ethical hacking and responsible disclosure**.
 
 ---
@@ -122,5 +149,4 @@ I promote **ethical hacking and responsible disclosure**.
   </table>
 </div>
 
-
-⭐️ *"Security is not a product, but a process."*
+⭐️ _"Security is not a product, but a process."_

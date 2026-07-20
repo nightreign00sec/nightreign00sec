@@ -89,9 +89,6 @@ Here are some ideas to get you started:
 - 🚀 Contribute to impactful security projects  
 
 ---
-<img width="500" src="https://ghstats.dev/api/card?username=nightreign00sec&theme=forest&custom_title=nightreign00sec%27s+Github+stats" alt="GitHub Stats Card" />
-<img src="https://ghstats.dev/api/langs?username=nightreign00sec&theme=forest&custom_title=nightreign00sec%27s+Github+stats&layout=vertical_list" alt="Top Languages" />
-<img src="https://ghstats.dev/api/sparkline?username=nightreign00sec&theme=forest&days=30&width=320&height=80" alt="Contribution Sparkline" />
 
 
 ## 🤝 Let's Connect
@@ -105,5 +102,25 @@ All security-related projects are for **educational purposes only**.
 I promote **ethical hacking and responsible disclosure**.
 
 ---
+
+<div align="center">
+  <table style="border-collapse: collapse; width: 100%; max-width: 960px; table-layout: fixed;">
+    <tr>
+      <td style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px; background: #f6f8fa; vertical-align: top;">
+        <strong>GitHub Stats</strong><br />
+        <img width="100%" src="https://ghstats.dev/api/card?username=nightreign00sec&theme=forest&custom_title=nightreign00sec%27s+Github+stats" alt="GitHub Stats Card" />
+      </td>
+      <td style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px; background: #f6f8fa; vertical-align: top;">
+        <strong>Top Languages</strong><br />
+        <img width="100%" src="https://ghstats.dev/api/langs?username=nightreign00sec&theme=forest&custom_title=nightreign00sec%27s+Github+stats&layout=vertical_list" alt="Top Languages" />
+      </td>
+      <td style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px; background: #f6f8fa; vertical-align: top;">
+        <strong>Contributions</strong><br />
+        <img width="100%" src="https://ghstats.dev/api/sparkline?username=nightreign00sec&theme=forest&days=30&width=320&height=80" alt="Contribution Sparkline" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ⭐️ *"Security is not a product, but a process."*

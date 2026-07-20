@@ -32,27 +32,24 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚡ Skills & Technologies
+## ⚡ Technologies & Tools
 
-### 🖥️ Systems & Networking
+### 🖥️ Tech
 
-- Windows Server
-- Linux (learning hardcore 🐧)
-- Networking fundamentals
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-### 🔐 Cybersecurity
+### 🔐 Cybersecurity tools
 
-- Web vulnerabilities (XSS, SQL Injection, etc.)
-- Secure coding practices
-- Basic penetration testing
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge)
 
-### 🛠️ Tools
-
-- Wazuh (SIEM)
-- Zabbix (Monitoring)
-- Git & GitHub
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
 
 ## 📂 Featured Projects
 

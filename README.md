@@ -1,4 +1,7 @@
-## Hi there 👋
+<h3 align="center">Nice to see you 👋, I'm nightreign00sec</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGszY3NweXNodHVkd2Q2OHRybTRrN285Y2hycXI2aGlqNWZ3c2JjciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fARC3iJZrP70VMefaN/giphy.gif" alt="Cybersecurity GIF" width="800" />
+</p>
 
 <!--
 **nightreign00sec/nightreign00sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm nightreign00sec</h1>
-<h3 align="center">Student in Systems & Network Administration | Future Cybersecurity Engineer</h3>
+
 
 ---
 
@@ -87,10 +89,14 @@ Here are some ideas to get you started:
 - 🚀 Contribute to impactful security projects  
 
 ---
+<img width="500" src="https://ghstats.dev/api/card?username=nightreign00sec&theme=forest&custom_title=nightreign00sec%27s+Github+stats" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/langs?username=nightreign00sec&theme=forest&custom_title=nightreign00sec%27s+Github+stats&layout=vertical_list" alt="Top Languages" />
+<img src="https://ghstats.dev/api/sparkline?username=nightreign00sec&theme=forest&days=30&width=320&height=80" alt="Contribution Sparkline" />
+
 
 ## 🤝 Let's Connect
 - 💬 Open to collaboration on cybersecurity projects  
-- 📫 Reach me: *[Add your email or LinkedIn]*  
+- 📫 Reach me: **  
 
 ---
 

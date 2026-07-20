@@ -81,22 +81,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 Current Focus
-
-- Deep dive into **Linux (Hardcore level)**
-- Building **real-world cybersecurity labs**
-- Strengthening **defensive security skills**
-
----
-
-## 🌍 Future Objectives
-
-- 🌐 Work in **Cloud Security**
-- 🎓 Study abroad & obtain top cybersecurity certifications
-- 🚀 Contribute to impactful security projects
-
----
-
 ## 🤝 Let's Connect
 
 - 💬 Open to collaboration on cybersecurity & monitoring projects

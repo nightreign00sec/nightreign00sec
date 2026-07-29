@@ -84,18 +84,22 @@ Here are some ideas to get you started:
 - 📫 Reach me through one of the secure channels below
 
 <div align="center">
-  <a href="https://linkedin.com/in/{linkedin_username}">
+  <a href="https://linkedin.com/in/gaston-mpeck-9877372b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:gastonmpeck7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <!--
   <a href="https://twitter.com/{twitter_username}">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:{email}">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="{portfolio_url}">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
   </a>
+  -->
+  
 </div>
 
 <div align="center">

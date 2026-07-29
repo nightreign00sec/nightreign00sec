@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGszY3NweXNodHVkd2Q2OHRybTRrN285Y2hycXI2aGlqNWZ3c2JjciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fARC3iJZrP70VMefaN/giphy.gif" alt="Cybersecurity GIF" width="800" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=nightreign00sec&style=for-the-badge)
+
+
 <!--
 **nightreign00sec/nightreign00sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,7 +52,6 @@ Here are some ideas to get you started:
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
 
 ## 📂 Featured Projects
 
